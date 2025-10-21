@@ -1,12 +1,12 @@
 {
-    "name": "spectrum_tools",
-    "short_name": "spectrum_tools",
+    "name": "Spectrum Tools",
+    "short_name": "Spectrum Tools",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "Spectrum Management Tools",
+    "orientation": "landscape",
     "prefer_related_applications": false,
     "icons": [
         {
